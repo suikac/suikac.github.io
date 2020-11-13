@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a sophomore in pre-major at University of Washington
+I am a pre-major sophomore undergraduate at University of Washington
 * start studying Programming Language
 * some coursework:
     * [intro to Programming language](https://courses.cs.washington.edu/courses/cse341/20wi/)
